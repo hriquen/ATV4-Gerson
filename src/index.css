@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.caption-font {
+  font-size: 30px;
+  font-weight: bold;
+  color: black; 
+  font-family: monospace;
+}
